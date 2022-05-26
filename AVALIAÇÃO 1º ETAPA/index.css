@@ -1,0 +1,29 @@
+body{
+      background-color: #c0c0c0;
+}
+div.um {
+     width:700px;
+     height:300px;
+     background-color: #81BEF7;
+}
+div.dois {
+     width:700px;
+     height:100px;
+     background-color: #BE81F7;
+}
+div.tres {
+     width:300px;
+     height:300px;
+     background-color: #e0cc71;
+}
+td{
+border: solid #000000;
+}
+#lorem{
+  align-items: center;
+  justify-content: space-evenly;
+  padding-left: 200px;
+}
+#logo{
+padding-left: 1300px;
+}
